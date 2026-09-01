@@ -1,1 +1,1 @@
-print('blalblabla')
+print('')
