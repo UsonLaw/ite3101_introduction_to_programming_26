@@ -1,1 +1,1 @@
-todays_date  = 9
+todays_date  = 9/8
