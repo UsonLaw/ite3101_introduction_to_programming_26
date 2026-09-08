@@ -1,1 +1,1 @@
-print("Today is a sunny day ,I am so upset with a borring lesson")
+print("Today is a sunny day")
