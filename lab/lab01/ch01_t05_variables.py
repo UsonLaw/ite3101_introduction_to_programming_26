@@ -1,1 +1,1 @@
-today_date = "8/9"
+todays_date = "8/9"
