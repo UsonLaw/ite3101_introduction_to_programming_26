@@ -1,1 +1,1 @@
-haiku = "The old pond,\n A frog jumps in:\n Plop!"
+haiku = "The old pond,\n A frog jumps in:\n Plop!\n"
