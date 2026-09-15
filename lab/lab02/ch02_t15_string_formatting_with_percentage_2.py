@@ -6,4 +6,4 @@ color = input("What is your favorite color? ")
 print("Ah, so your name is %s ", your quest is , "
 "and your favorite color is" %s "." %s (name, quest, color))
 print("Ah, so your name is %s, your quest is %s"
-      "and your favorite")
+      "and your favorite color is %s")
