@@ -1,1 +1,0 @@
-print("Ah, so your name is Cyrus, your quest is Happy, and your favorite color is 38.")
