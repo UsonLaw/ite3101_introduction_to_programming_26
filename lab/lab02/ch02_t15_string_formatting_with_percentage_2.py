@@ -1,2 +1,2 @@
 name = input("What is your name? ")
-quest = 
+quest = input("what is your quest")
