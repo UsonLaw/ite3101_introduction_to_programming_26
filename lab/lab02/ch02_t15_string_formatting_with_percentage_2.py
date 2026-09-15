@@ -1,1 +1,1 @@
-name = input("WHat ")
+name = input("What ")
