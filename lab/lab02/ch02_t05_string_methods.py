@@ -1,2 +1,2 @@
 parrot = "Norwegian Blue"
-l
+len(parrot)
