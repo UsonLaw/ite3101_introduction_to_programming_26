@@ -13,4 +13,4 @@ bool_three = 1 => 1
 bool_four = 2 < 1
 
 # Make me true!
-bool_five = 2 == 1
+bool_five = 2 != 1
