@@ -10,7 +10,7 @@ bool_two = 6767 != 67 or not 1 + 1 < 1 and 1 + 66 ==67
 bool_three = False and (1 + 1 == 2 or not 1 + 1 == '2')
 
 # Make me true!
-bool_four = not 1 + 1 == 3 and 1 == 67 
+bool_four = not 1 + 1 == 3 and 1 == 67 or 
 
 # Make me true!
 bool_five = None
