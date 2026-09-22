@@ -6,4 +6,4 @@ bool_three = 1 + 1 == 2 and not (1>2 or 2<1)
 
 bool_four = not not 60 + 7 == 67 or 1 == 67 and not 'hi' = 'hi'
 
-bool_five = 67 != 67 
+bool_five = 67 != 67 or not (1)
