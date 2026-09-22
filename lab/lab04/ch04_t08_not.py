@@ -1,4 +1,4 @@
-bool_one = not 1 == 2
+bool_one = not 1 == 1
 
 bool_two = not 81 < 64
 
