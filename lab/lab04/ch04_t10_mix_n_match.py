@@ -13,4 +13,4 @@ bool_three = False and (1 + 1 == 2 or not 1 + 1 == '2')
 bool_four = not 1 + 1 == 3 and (1 == 67 or 'hi' == 'hi')
 
 # Make me true!
-bool_five = 2 > 3 or not 1 + 1 = 67 and 
+bool_five = 2 > 3 or not 1 + 1 = 67 and 67 < 69
