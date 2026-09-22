@@ -1,4 +1,4 @@
-bool_one = 1 + 1 == 2 or 'hi'
+bool_one = 1 + 1 == 2 or 'hello' == 'world'
 
 bool_two = True or False
 
