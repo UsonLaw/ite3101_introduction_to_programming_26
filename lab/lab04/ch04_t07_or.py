@@ -6,4 +6,4 @@ bool_three = 1 == 2 or 1 == 3
 
 bool_four = 1 + 1 == 2 or 3 % 2 == 1
 
-bool_five = 
+bool_five = 1 == 100 or 6 == 6
