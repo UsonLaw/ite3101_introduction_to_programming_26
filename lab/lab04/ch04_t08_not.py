@@ -6,4 +6,4 @@ bool_three = 1 <= 0
 
 bool_four = 1 + 1 != 2
 
-bool_five = None
+bool_five = not not 
