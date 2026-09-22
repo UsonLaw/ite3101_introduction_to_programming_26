@@ -1,4 +1,4 @@
-bool_one = 1 > 2 or not 1 + 1 == 2 and 
+bool_one = 1 > 2 or not 1 + 1 == 2 and 67 ==67
 
 bool_two = None
 
