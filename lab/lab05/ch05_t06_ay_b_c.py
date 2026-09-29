@@ -1,1 +1,1 @@
-pyg = "gay"
+pyg = "ay"
