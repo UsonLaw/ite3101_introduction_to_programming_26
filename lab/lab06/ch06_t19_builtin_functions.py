@@ -1,2 +1,2 @@
 def distance_from_zero(num):
-    if type(num) == "int" or type(num) == "fl"
+    if type(num) == "int" or type(num) == "float" 
