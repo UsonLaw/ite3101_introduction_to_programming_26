@@ -8,4 +8,4 @@ def by_three(number):
     else:
         return False
 
-by_three(3)
+print(by_three(3))
