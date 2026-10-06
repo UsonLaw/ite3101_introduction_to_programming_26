@@ -2,7 +2,7 @@ def cube(number):
     number = number ** 3
 
 
-def by_three():
+def by_three(number):
     if number % 3 == 0:
         return cube(number)
     else:
