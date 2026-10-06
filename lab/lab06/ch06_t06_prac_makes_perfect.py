@@ -8,5 +8,5 @@ def by_three(number):
     else:
         return False
 
-
-by_three()
+y = input()
+by_three(y)
