@@ -1,3 +1,3 @@
 def cube(number):
     number = number ** 3
-def
+def by_three
