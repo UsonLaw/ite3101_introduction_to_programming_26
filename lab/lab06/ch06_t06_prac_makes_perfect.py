@@ -7,4 +7,4 @@ def by_three(number):
 
 
 y = int(input())
-by_three(y)
+by_three(0)
