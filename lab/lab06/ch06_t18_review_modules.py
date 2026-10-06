@@ -1,2 +1,2 @@
 import math
-print(sqrt())
+print(math.sqrt())
