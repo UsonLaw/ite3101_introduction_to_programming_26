@@ -1,4 +1,3 @@
-number = input()
 def cube(number):
     number = number ** 3
 def by_three():
@@ -6,3 +5,4 @@ def by_three():
         return cube(number)
     else:
         return False
+
