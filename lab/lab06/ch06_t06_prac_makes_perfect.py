@@ -3,8 +3,7 @@ def cube(number):
 
 
 def by_three(number):
-    
+    return True
 
 
-y = int(input())
 by_three(0)
