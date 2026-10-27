@@ -23,7 +23,7 @@ for turn in range(4):
     ship_row = random_row(board)
     ship_col = random_col(board)
 
-    print(ship_row)
+print(ship_row)
 print(ship_col)
 
 # Write your code below!
