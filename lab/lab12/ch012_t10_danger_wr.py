@@ -37,4 +37,4 @@ else:
     print("You missed my battleship!")
     guess_row = "X"
     guess_col = "X"
-    print_b
+    print_board(board)
