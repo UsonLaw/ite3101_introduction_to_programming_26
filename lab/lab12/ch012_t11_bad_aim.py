@@ -38,4 +38,4 @@ else:
     print_board(board)
 
 if (guess_col < 0 or guess_col > 5) and (guess_row < 0 or guess_row > 5):
-    print ()
+    print ("Oops, that's not even in the ocean.")
