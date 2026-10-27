@@ -15,4 +15,4 @@ def print_board(board_in: List[List[str]]) -> None:
 def renadom_row(board_in):
     return randint(0,len(board_in)-1)
 
-d
+def r
