@@ -19,7 +19,7 @@ def random_row(board_in: List[List[str]]) -> int:
 def random_col(board_in: List[List[str]]) -> int:
     return randint(0, len(board_in) - 1)
 
-
+for turn in range(4):
 ship_row = random_row(board)
 ship_col = random_col(board)
 
