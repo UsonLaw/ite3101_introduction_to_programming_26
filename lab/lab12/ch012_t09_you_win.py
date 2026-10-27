@@ -1,5 +1,5 @@
 from typing import List
-i ffrom random import randint
+i from random import randint
 
 board = []
 
