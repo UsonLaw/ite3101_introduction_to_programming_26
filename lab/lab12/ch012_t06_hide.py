@@ -12,4 +12,5 @@ def print_board(board_in: List[List[str]]) -> None:
         print(" ".join(row))
 
 # Add your code below!
-def renadom_row()
+def renadom_row():
+    
