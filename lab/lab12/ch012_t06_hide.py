@@ -15,4 +15,5 @@ def print_board(board_in: List[List[str]]) -> None:
 def ranadom_row(board_in):
     return randint(0,len(board_in)-1)
 
-def random
+def random_col(board_in):
+    return 
