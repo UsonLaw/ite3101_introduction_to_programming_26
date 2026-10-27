@@ -37,4 +37,4 @@ else:
     board[guess_row][guess_col] = "X"
     print_board(board)
 
-if guess_col < 0 or guess >5 and 
+if guess_col < 0 or guess > 5) and 
