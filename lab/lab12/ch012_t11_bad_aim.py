@@ -33,7 +33,7 @@ guess_col = int(input("Guess Col: "))
 if guess_row == ship_row and guess_col == ship_col:
     print("Congratulations! You sank my battleship!")
 else:
-    if (guess_col < 0 or guess_col > 5) and (guess_row < 0 or guess_row > 5):
+    if guess_row not in range(5) or guess_col not in range(5):
         print ("Oops, that's not even in the ocean.")
     elif:
         print("You missed my battleship!")
