@@ -1,3 +1,4 @@
 # Write your function below!
 def fizz_count(x):
-    count
+    count = 0
+    for x in
