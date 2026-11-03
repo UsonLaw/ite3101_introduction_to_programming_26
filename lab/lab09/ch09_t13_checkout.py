@@ -7,7 +7,7 @@ global shopping_list
 global stock
 global prices
 
-shopping_list = ["banana", "orange"]
+shopping_list = ["banana", "orange",]
 
 stock = {
     "banana": 6,
@@ -33,4 +33,4 @@ def compute_bill(food: List[str]) -> float:
             stock[item] -= 1
     return total
 
-print(compute_bill(shopping_lis))
+print(compute_bill())
