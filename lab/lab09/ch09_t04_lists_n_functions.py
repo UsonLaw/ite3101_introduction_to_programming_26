@@ -4,4 +4,4 @@ def fizz_count(x):
     for item in x:
         if x[item] == "fizz"
         count = count + 1
-    returm count
+    return count
