@@ -1,3 +1,3 @@
 names = ["Adam", "Alex", "Mariah", "Martine", "Columbus"]
-for i in range (10,4):
+for i in range (0,4):
     print(names[i])
