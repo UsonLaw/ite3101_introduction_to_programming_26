@@ -7,7 +7,7 @@ global shopping_list
 global stock
 global prices
 
-shopping_list = ["banana", "orange",]
+shopping_list = ["banana", "orange", "apple"]
 
 stock = {
     "banana": 6,
