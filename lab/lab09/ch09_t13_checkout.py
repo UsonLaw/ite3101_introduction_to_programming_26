@@ -1,5 +1,7 @@
 from typing import List
 
+from lab.lecture.sum_squares_1 import total
+
 # The following 3 lines of codes are for UnitTest and you don't need them for your real applications!
 global shopping_list
 global stock
