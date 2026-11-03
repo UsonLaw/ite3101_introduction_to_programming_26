@@ -1,5 +1,5 @@
 def compute_bill(food):
     total = 0
-    for key in food:
+    for item in food:
         total += food
     return total
