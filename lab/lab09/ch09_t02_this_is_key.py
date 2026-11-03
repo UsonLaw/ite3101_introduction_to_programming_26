@@ -6,5 +6,5 @@ webster = {
 }
 
 # Add your code below!
-for i in range(webster):
+for i in (webster):
     print(webster[i])
