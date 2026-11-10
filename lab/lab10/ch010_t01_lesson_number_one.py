@@ -8,7 +8,7 @@ alice = {
     "name": "Alice",
     "homework": [],
     "quizzes": [],
-    "tests"
+    "tests": []
 }
 tyler = {
     "name": "Tyler",
