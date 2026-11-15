@@ -4,7 +4,6 @@ phrase = "A bird in the hand..."
 for i in phrase:
     if i =="a" or i == "A":
         i ="X"
-    print(i)
 
 # Don't delete this print statement!
-print()
+print(i)
