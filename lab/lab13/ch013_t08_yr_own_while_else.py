@@ -12,5 +12,5 @@ while guesses_left > 0:
         break
     else:
         guesses_left -= 1
-        if guesses_left = 0
-    prin
+        if guesses_left = 0:
+            print (You lose.)
