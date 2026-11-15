@@ -6,5 +6,5 @@ for i in range(0, len(n)):
 def double_list(x):
     for j in range(len(x)):
         x[j] = x[j] * 2
-        return x
+    return x
 # print(double_list(n))
