@@ -6,5 +6,5 @@ for c in thing:
 word = "eggs!"
 
 # Your code here!
-for s in thing:
+for s in word:
     print(s)
