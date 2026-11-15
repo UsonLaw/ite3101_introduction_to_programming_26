@@ -7,4 +7,4 @@ guesses_left = 3
 # Start your game!
 while guesses_left > 0:
     if guess = random_number:
-        print "You win"
+        print "You win!"
