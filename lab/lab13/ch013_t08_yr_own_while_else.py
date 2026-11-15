@@ -6,4 +6,5 @@ guess = int(input("Your guess: "))
 guesses_left = 3
 # Start your game!
 while guesses_left > 0:
-    if guess = random_number
+    if guess = random_number:
+        print 
