@@ -3,5 +3,5 @@ n = [4, 5, 6]
 
 # Add your code here!
 def join_lists(x,y):
-    x + y
+    return x + y
 print(join_lists(m, n))
