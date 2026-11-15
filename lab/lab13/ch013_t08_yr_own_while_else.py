@@ -7,10 +7,10 @@ guesses_left = 3
 # Start your game!
 while guesses_left > 0:
     guess = int(input("Your guess: "))
-    if guess = random_number:
+    if guess == random_number:
         print("You win!")
         break
     else:
         guesses_left -= 1
-        if guesses_left = 0:
+        if guesses_left == 0:
             print ("You lose.")
