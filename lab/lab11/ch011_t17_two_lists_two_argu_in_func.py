@@ -7,4 +7,3 @@ def join_lists(x,y):
         x.append(y)
         return x
 print(join_lists(m, n))
-You want this to print [1, 2, 3, 4, 5, 6]
