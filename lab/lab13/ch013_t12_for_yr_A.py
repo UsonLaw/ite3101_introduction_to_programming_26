@@ -6,4 +6,4 @@ for i in phrase:
         i ="X"
 
 # Don't delete this print statement!
-print(i)
+print()
