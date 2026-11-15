@@ -7,4 +7,4 @@ word = "eggs!"
 
 # Your code here!
 for s in thing:
-    word = 
+    print(s)
