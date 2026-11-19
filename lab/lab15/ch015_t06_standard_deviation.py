@@ -66,17 +66,8 @@ def grades_variance(scores):
     for score in scores:
         variance += (average - score) ** 2
     return variance / len(scores)
-
 def grades_std_deviation(variance):
     return variance ** 0.5
 
-print_grades(grades)
-print(grades_sum(grades))
-print(grades_average(grades))
 variance = grades_variance(grades)
-print(variance)
 print(grades_std_deviation(variance))
-   
-Lab15_exam_statistics.docx
-+ 4
-Ready for Lab 16 whenever you are!
