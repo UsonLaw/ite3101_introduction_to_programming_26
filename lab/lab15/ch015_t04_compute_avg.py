@@ -20,6 +20,5 @@ def grades_average(grades_input):
     return average
 
 
-
 print(grades_sum(grades))
 
