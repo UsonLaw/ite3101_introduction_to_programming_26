@@ -66,6 +66,7 @@ def grades_variance(scores):
     for score in scores:
         variance += (average - score) ** 2
     return variance / len(scores)
+
 def grades_std_deviation(variance):
     return variance ** 0.5
 
