@@ -4,3 +4,8 @@ file_path_name = os.path.join(os.path.dirname(
 
 with open(file_path_name, "w") as my_file:
     my_file.write("My Data!")
+
+if not my_file.closed:
+    my_file.close()
+
+print(my_file.closed)
