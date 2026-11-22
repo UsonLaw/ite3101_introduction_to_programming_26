@@ -1,3 +1,4 @@
 class Car(object):
-    def __init__(self):
-        pass
+    pass
+
+my_car = Car()
