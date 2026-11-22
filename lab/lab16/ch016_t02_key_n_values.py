@@ -3,5 +3,5 @@ my_dict = {
     "Age": 18,
     "BDFL": True
 }
-print(my_dict.items())
+print(my_dict.key())
 print(my_dict.values())
