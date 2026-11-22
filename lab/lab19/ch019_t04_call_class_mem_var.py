@@ -4,3 +4,4 @@ class Car(object):
 
 
 my_car = Car()
+print(my_car.condition)
